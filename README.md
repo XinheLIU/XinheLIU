@@ -13,6 +13,9 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
