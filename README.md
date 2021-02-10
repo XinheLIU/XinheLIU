@@ -5,9 +5,9 @@
 </p>-->
 
 
-- 🔭 I’m currently working on **QuantFinance and MachineLearning**
-- 🌱 I’m currently learning **Go and Algorithms**
-- 💬 Ask me about **Python & TF2.0**
+- 🔭 I’m currently working on **DataScience and MachineLearning**
+- 🌱 I’m currently learning **Computing Ads & NLP**
+- 💬 Ask me about **Python, Torch & Bayesian**
 - 📫 How to reach me: [@email](liuxinhe@outlook.com)
 
 -------
