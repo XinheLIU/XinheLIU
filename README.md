@@ -14,7 +14,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python     4 mins          ███████████████████████▒░   92.95 % 
+
 ```
 <!--END_SECTION:waka-->
 -------
