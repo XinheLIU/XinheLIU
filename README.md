@@ -5,9 +5,14 @@
 </p>-->
 
 
-- 🔭 I’m currently working on **DataScience and MachineLearning**
-- 🌱 I’m currently learning **Computing Ads & NLP**
-- 💬 Ask me about **Python, Torch & Bayesian**
+
+-  🚀 Business-AI Architect | Data Scientist | Strategic Consultant
+-  💡 Specializing in end-to-end AI strategy, enterprise data transformation, and intelligent workflow design
+-  🏢 Partnering with leading companies to architect scalable, impactful AI solutions across business domains
+-  🌏 Bridging business vision and technical execution to drive digital transformation at scale
+- 🔭 I’m currently working on **AI/Agents**
+- 🌱 I’m currently learning **Agentic Workflow/Business/AI**
+- 💬 Ask me about **Python, LangChain, ClaudeCode**
 - 📫 How to reach me: [@email](liuxinhe@outlook.com)
 
 -------
