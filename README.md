@@ -18,13 +18,13 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 881.4 kB Used in GitHub's Storage 
+> 📦 881.5 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2025
  > 
@@ -61,18 +61,18 @@ Sunday                   83 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 33 mins       ███████████████░░░░░░░░░░   60.52 % 
-Python                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Git Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-CSV                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Markdown                 3 hrs 48 mins       ████████████████░░░░░░░░░   64.73 % 
+Python                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Git Config               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+CSV                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 39 mins       █████████████████████░░░░   83.42 % 
-VS Code                  1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Cursor                   5 hrs 22 mins       ███████████████████████░░   91.06 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 💻 Operating System: 
-Mac                      9 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 02:22:36 UTC
+ Last Updated on 19/08/2025 02:03:25 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
