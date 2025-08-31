@@ -18,6 +18,8 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2028%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -59,17 +61,16 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 30 mins       █████████████████████░░░░   84.41 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 2 hrs 20 mins       ████████████████████░░░░░   81.37 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 9 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +88,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 01:51:29 UTC
+ Last Updated on 31/08/2025 02:03:16 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
