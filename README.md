@@ -61,9 +61,9 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       ████████████████████░░░░░   81.37 % 
-Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 2 hrs 20 mins       ████████████████████░░░░░   81.35 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
@@ -88,7 +88,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 02:03:16 UTC
+ Last Updated on 01/09/2025 02:19:34 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
