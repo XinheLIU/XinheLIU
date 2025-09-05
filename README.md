@@ -18,13 +18,13 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 882.1 kB Used in GitHub's Storage 
+> 📦 882.2 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2025
  > 
@@ -61,17 +61,18 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 12 mins       ██████████████░░░░░░░░░░░   55.83 % 
-Python                   1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   38.44 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Python                   1 hr 31 mins        █████████████░░░░░░░░░░░░   50.45 % 
+Markdown                 1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   41.63 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 47 mins       ████████████████████████░   95.53 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Cursor                   2 hrs 50 mins       ████████████████████████░   94.14 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 💻 Operating System: 
-Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +90,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2025 01:51:50 UTC
+ Last Updated on 05/09/2025 01:54:45 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
