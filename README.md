@@ -18,7 +18,7 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -61,17 +61,17 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 32 mins       █████████████████████░░░░   83.79 % 
-Python                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown                 6 hrs 21 mins       █████████████████████░░░░   85.42 % 
+Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 37 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2025 01:52:36 UTC
+ Last Updated on 11/09/2025 01:55:46 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
