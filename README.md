@@ -18,7 +18,7 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -61,17 +61,16 @@ Sunday                   107 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        ████████████░░░░░░░░░░░░░   48.60 % 
-Python                   1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.77 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 3 hrs 9 mins        ████████████████████░░░░░   79.76 % 
+Python                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 10 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +88,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 02:03:33 UTC
+ Last Updated on 22/09/2025 02:03:38 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
