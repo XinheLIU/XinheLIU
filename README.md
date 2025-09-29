@@ -18,6 +18,8 @@
 -------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2046%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -32,6 +34,43 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                206 commits         █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌆 Daytime                78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+🌃 Evening                171 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌙 Night                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   144 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Tuesday                  83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Thursday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Saturday                 30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Sunday                   107 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 53 mins             █████████████████████████   98.96 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+
+🔥 Editors: 
+Cursor                   54 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      54 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -47,7 +86,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XinheLIU/XinheLIU/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 02:04:14 UTC
+ Last Updated on 29/09/2025 01:58:06 UTC
 <!--END_SECTION:waka-->
 -------
 <!--**XinheLIU/XinheLIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
