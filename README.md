@@ -11,6 +11,17 @@ My mission is to help organizations think better and act smarter with data, AI, 
 Coding activity:
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 135 hrs 35 mins
+
+Markdown      92 hrs 17 mins        ████████████████░░░░░░░░░   64.43 %
+Python        15 hrs 20 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Other         7 hrs 39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+XML           6 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+HTML          6 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+```
+
 <!--END_SECTION:waka-->
 
 Selected work:
