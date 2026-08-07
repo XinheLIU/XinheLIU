@@ -13,13 +13,13 @@ Coding activity:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 44 hrs 42 mins
+Total Time: 28 hrs 39 mins
 
-Markdown     18 hrs 49 mins        ██████████▒░░░░░░░░░░░░░░   41.64 %
-Python       10 hrs 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-XML          5 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-HTML         3 hrs 39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-TypeScript   2 hrs 49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Markdown     10 hrs 44 mins        █████████▒░░░░░░░░░░░░░░░   36.91 %
+Python       6 hrs 7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+XML          3 hrs 33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+HTML         3 hrs 21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+TypeScript   2 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
