@@ -13,13 +13,9 @@ Coding activity:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 45 mins
+Total Time: 0 secs
 
-Markdown     3 hrs 11 mins         █████████████▓░░░░░░░░░░░   55.33 %
-JSON         42 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-HTML         33 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-XML          29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Python       26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
