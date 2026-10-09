@@ -1,6 +1,6 @@
 # Hi, I'm Xinhe (Charles)
 
-Last updated: 2026-10-03
+Last updated: 2026-10-09
 
 **Agentic System Builder & Designer**
 
@@ -20,7 +20,7 @@ I also write to deepen and share what I learn. My essays, technical notes, and b
 ## Learning & knowledge
 
 - [**Learning OS**](https://github.com/XinheLIU/Learning-OS) — Agent skills for gathering information, learning through practice, and proving understanding in writing.
-- [**Agentic Knowledge Bank**](https://github.com/XinheLIU/Agentic-Knowledge-Bank) — A LangGraph workflow for collecting, reviewing, and retrieving technical knowledge.
+- [**Agentic Knowledge Bank**](https://github.com/XinheLIU/Agentic-Knowledge-Bank) — A provenance-tracked concept wiki: four skills inventory a topic's material, restructure it into MECE notes, and write concept pages whose every claim is footnote-traced to a material row or a verified primary source. [Design](https://github.com/XinheLIU/Agentic-Knowledge-Bank/blob/main/docs/knowledge-model.md)
 
 ## Personal tools
 
